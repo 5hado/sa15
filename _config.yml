@@ -1,8 +1,0 @@
-title: Your Site Title
-description: A brief description of your site
-theme: jekyll-theme-primer
-url: https://example.com
-
-markdown: kramdown
-plugins:
-  - jekyll-feed
